@@ -1,0 +1,30 @@
+.fuente{
+    text-align: justify;
+    font-size: 30px;
+    color: azure;
+}
+.fondo{
+    background-color: rgba(4, 141, 204, 0.966);
+}
+ul{
+    list-style-type: circle;
+}
+.fuente2{
+    text-align: justify;
+    font-size: 20px;
+    color: azure;
+}
+.fuente3{
+    text-align: justify;
+    font-size: 30px;
+    color: azure;
+}
+table{
+    table-layout: fixed;
+    width: 50%;
+    border: 1px solid black ;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid black;
+}
